@@ -15,14 +15,12 @@ A retro-style endless runner game where you play as Orpheus, jumping over obstac
 - Pixel art graphics
 - Parallax scrolling background
 - Animated character sprites
-- Score tracking
 - Title screen
 
 ## 🔧 Technical Details
 - Built with Python and Pygame
 - Uses DisplayIO for graphics management
 - Resolution: 128x128 pixels
-- Frame rate: 60 FPS
 - Animation frame rate: 12 FPS
 
 ## 📁 Project Structure
